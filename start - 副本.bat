@@ -1,0 +1,2 @@
+start startc
+%0
